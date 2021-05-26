@@ -10,7 +10,7 @@ building_blocks = {
               'A': 'Brc1nc(Br)nc(Br)n1',
               'B': 'Brc1cc2CCc3cc(Br)cc4ccc(c1)c2c34'
               'C': 'BrCC(O)(O)CBr'
-              'D': 'BrCC(=O)O
+              'D': 'BrCC(=O)O'
 }
 ```
 
